@@ -1,0 +1,17 @@
+Package: DiscGolf
+Title: Flying objects officially approved for use
+Version: 0.1.0
+Authors@R: 
+    person(given = "Wilson",
+           family = "Sithole",
+           role = c("aut", "cre"),
+           email = "willsithole81@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: People might want to know about flying objects.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
